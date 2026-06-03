@@ -1,0 +1,127 @@
+toString(): converting the object into string format.
+equals() : the equals() method compares two objects.
+static: no need to create the object. It will be called automatically.
+
+INHERITANCE
+	Single, Multi level
+	Multiple
+
+override: same method name diff. implementation.
+polymorphism : Same method but diff implementation.OVERLOADING and OVERRIDING is the types of polymorphism.
+Overriding vs overloading 
+In overriding we use same method with diff. implementations but can't use it in same class.
+In overloading we use same method but with diff. parameters and we can use it in same class. 
+
+ENCAPSULATION : It's the process of wrapping data(variables) and methods(functions) together into a single unit(class) and restricting direct access to the data.
+Abstraction: Process of hiding implementation details and showing only the necessary details.
+Abstract Class: must start with Abstract keyword. Abstract class must contain one abstract method and the method can be empty.
+Access Modifier: public, private, protected, default
+
+=======Examples for protected access Modifier=======
+
+Constructor : Name of the function or method is similar with Class.
+default, no argument, argument(parameters) constructor.
+
+=======copy constructor and use of copy constructor=======
+A copy constructor in Java is a specific type of constructor used to create a new object as an exact duplicate of an existing object of the same class.
+Use: 
+
+this and super Keywords
+this refers to the current object.
+super refers to the parent class object.
+these keywords are used in : constructors, inheritance, method overriding etc.
+Binding: It means connecting 
+static and dynamic
+static : method to execute is determined during compilation. Ex: method overloading.
+dynamic : means the method to be executed is determined at runtime, not during compilation. Ex: Late binding, runtime binding, dynamic method dispatch.
+
+IS_A(Similar to Inheritance) and HAS_A relationship(represent the ownership or containment)/(injecting one class to another).
+
+
+
+DAY 3:
+
+Exception: Try catch, finally(this block will execute any how),checked exception, unchecked exception.
+Checked: At compile time. Ex: try catch, throw
+Unchecked: At runtime. Ex: ArithematicException, NullPointerException.
+===Difference between Checked and Unchecked Exception.
+throw, throws keyword
+Custom Exception.
+Collection Framework: 
+
+====Explain the benefits of arraylist over array====
+						Iterable
+
+  						   |
+						collection
+    						   |
+			---------------------------------------------------------
+			|                    |              |                 |
+			list                set           Queue              map
+			|		     |		    |
+			Arraylist	hashset		PriorityQueue
+			linkedlist	linkedhashset	Deque
+			vector		treeset
+			stack
+
+Generic and use of Generic
+Iterator:
+hasnext(): check whether there is a next element or not.
+next(): return the current element.
+remove(): remove the current element.
+======HOMEWORK : Explore all the methods of ArrayList======
+add()
+add(index,obj)
+remove()
+get()
+set()
+contains()
+size()
+clear()
+isEmpty()
+indexOf()
+===========================================================
+LinkedList
+diff. b/w ArrayList and Vector.
+=====convert list into set=====
+what is the diff. between hash set and tree set.
+what is the diff. between tree map and hash map.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
