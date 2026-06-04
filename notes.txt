@@ -69,7 +69,7 @@ Iterator:
 hasnext(): check whether there is a next element or not.
 next(): return the current element.
 remove(): remove the current element.
-======HOMEWORK : Explore all the methods of ArrayList======
+HOMEWORK : Explore all the methods of ArrayList
 add()
 add(index,obj)
 remove()
@@ -83,9 +83,17 @@ indexOf()
 ===========================================================
 LinkedList
 diff. b/w ArrayList and Vector.
+-> ArrayList is not synchronized but vector is(multiple threads can at a time). ArrayList performance is high than vector that's why ArrayList is mostly used. But vector is a legacy class and mostly used when thread safety is needed.
 =====convert list into set=====
 what is the diff. between hash set and tree set.
+Hash set 		tree set
+not sorted		sorted
+one null allowed	no null allowed
 what is the diff. between tree map and hash map.
+hash map		tree map
+unsorted		sorted(key stored in sorted order)
+one null key		no null key
+multiple null values	multiple null values
 
 
 
