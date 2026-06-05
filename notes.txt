@@ -95,6 +95,32 @@ unsorted		sorted(key stored in sorted order)
 one null key		no null key
 multiple null values	multiple null values
 
+DAY 4:
+
+File Handling: Process of creating, reading, writing, updating and deleting files using java programs.
+import java.io.*;
+Class
+File			Create and manage files
+FileWriter		Write data
+FileReader		Read data
+BufferedWriter		Efficient
+BufferedReader
+PrintWriter
+Scanner			Read file content
+FileInputStream		Read binary content
+FileOutputStream
+
+static final : It will create class properties and final-it will not change.
+search,update,delete..
+
+DAY 5:
+
+Eclipse setup
+Maven = Project Management Tool.
+libraries-build path-
+diff. b/w execute , execute query , execute update.
+ResultSet(class which deals with table content) , ResultSetMetaData(class which provide details about table like table name , creation date etc..)...
+
 
 
 
