@@ -121,6 +121,12 @@ libraries-build path-
 diff. b/w execute , execute query , execute update.
 ResultSet(class which deals with table content) , ResultSetMetaData(class which provide details about table like table name , creation date etc..)...
 
+Day 6 :
+Spring : Inversion of Control, Dependency Injection..
+Representable State Transfer(REST API).
+MVC(Model View Control)
+
+
 
 
 
