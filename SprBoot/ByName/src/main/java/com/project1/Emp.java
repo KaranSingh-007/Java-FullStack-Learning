@@ -1,7 +1,9 @@
 package com.project1;
 
+import org.springframework.beans.factory.annotation.Autowired;
+
 public class Emp {
-	
+	@Autowired
 	private Address address;
 	
 	public Emp() {

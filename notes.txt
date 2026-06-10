@@ -125,6 +125,16 @@ Day 6 :
 Spring : Inversion of Control, Dependency Injection..
 Representable State Transfer(REST API).
 MVC(Model View Control)
+file>new>maven pro.>next>Internal>maven archieve quickstart 1.1>next> groupID: com.project>artifact id: project Name>package: package name>finish
+
+Day 7: 
+Dependency Injection.
+
+Day 8:
+ORM : Object Relational Mapping (map java class to table in database).
+
+Day 9:
+
 
 
 
