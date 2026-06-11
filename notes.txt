@@ -134,6 +134,14 @@ Day 8:
 ORM : Object Relational Mapping (map java class to table in database).
 
 Day 9:
+Hibernate
+SpringBoot: SpringBoot is an extension of the Spring Framework that makes it easy to create production ready Java applications with minimal configuration.
+SpringBoot removes complexity using Zero XML configuration, Auto Configuration, vEmbedded Servers, Starter Dependencies, Production Ready Features, Convention over Configuration.
+STRUCTURE: 
+Client----> Controller Layer----> Service Layer----> Repository Layer----> Database.
+================difference between @controller and @restcontroller in SpringBoot.====================
+@ResponseBody required			Yes 		No
+
 
 
 
