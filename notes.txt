@@ -142,6 +142,13 @@ Client----> Controller Layer----> Service Layer----> Repository Layer----> Datab
 ================difference between @controller and @restcontroller in SpringBoot.====================
 @ResponseBody required			Yes 		No
 
+Day 10:
+Postman
+JPA: interface between java objects and relational databases.
+
+google--->springboot initializer--->
+jdbc , collection framework, thread.
+
 
 
 
